@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "rouna2299@gmail.com",
+    "password": "ahmad rouna",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -35,8 +35,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100014566266786",
-    "61556432954740",
+    "",
+    "",
     "",
     ""
   ],
