@@ -1,17 +1,16 @@
-# Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
-
-.facebook.com	TRUE	/	TRUE	1787938513	datr	7GSBaIqwK9hDQ_BjkeZRfcmz
-.facebook.com	TRUE	/	TRUE	1787938543	sb	7GSBaANJ8R1mClUDgEk3q-23
-.facebook.com	TRUE	/	TRUE	1753915491	locale	ar_AR
-.facebook.com	TRUE	/	TRUE	1787870691	ps_l	1
-.facebook.com	TRUE	/	TRUE	1787870691	ps_n	1
-.facebook.com	TRUE	/	TRUE	1758563684	vpd	v1%3B704x360x2
-.facebook.com	TRUE	/	TRUE	1787939684	pas	61578389319686%3AqzYb78pdQI%2C100092990751389%3Ajh0tOhT7E7
-.facebook.com	TRUE	/	TRUE	1753918271	dpr	2
-.facebook.com	TRUE	/	TRUE	1784914543	c_user	61578389319686
-.facebook.com	TRUE	/	TRUE	1784914543	xs	11%3AesbXUrahJwfh7A%3A2%3A1753378541%3A-1%3A-1
-.facebook.com	TRUE	/	TRUE	1761155684	fr	0Ko2y8S45BUBCXkqo.AWfkJF6mk0Kk2RH21Ev3gQnTp7gINS2IUJ11UpEFZloyDICyEqc.BogWTs..AAA.0.0.BognNj.AWeZ2eV8KV_oak8cb8MZEG3MnhQ
-.facebook.com	TRUE	/	TRUE	1784915684	fbl_st	100433940%3BT%3A29222994
-.facebook.com	TRUE	/	TRUE	1761155684	wl_cbv	v2%3Bclient_version%3A2879%3Btimestamp%3A1753379683
+.facebook.com	TRUE	/login/device-based/	FALSE	1753378562	dbln	%7B%2261578389319686%22%3A%22aQTcWbJj%22%2C%22100092990751389%22%3A%22h7MuomEs%22%7D
+.facebook.com	TRUE	/	FALSE	1753378562	datr	7GSBaIqwK9hDQ_BjkeZRfcmz
+.facebook.com	TRUE	/	FALSE	1753378562	sb	7GSBaANJ8R1mClUDgEk3q-23
+.facebook.com	TRUE	/	FALSE	1753378562	locale	ar_AR
+.facebook.com	TRUE	/	FALSE	1753378562	ps_l	1
+.facebook.com	TRUE	/	FALSE	1753378562	ps_n	1
+.facebook.com	TRUE	/	FALSE	1753378562	vpd	v1%3B704x360x2
+.facebook.com	TRUE	/	FALSE	1753378562	pas	61578389319686%3AqzYb78pdQI%2C100092990751389%3Ajh0tOhT7E7
+.facebook.com	TRUE	/	FALSE	1753378562	dpr	2
+.facebook.com	TRUE	/	FALSE	1753378562	m_pixel_ratio	2
+.facebook.com	TRUE	/	FALSE	1753378562	wd	360x800
+.facebook.com	TRUE	/	FALSE	1753378562	c_user	61578389319686
+.facebook.com	TRUE	/	FALSE	1753378562	xs	11%3AesbXUrahJwfh7A%3A2%3A1753378541%3A-1%3A-1
+.facebook.com	TRUE	/	FALSE	1753378562	fr	0Ko2y8S45BUBCXkqo.AWfCclyKAl_MZyziIl4ggAb2uklL4lVXBJmB82YphmnZNsyNTgY.BogWTs..AAA.0.0.Bogm7w.AWcXOUs7nJipqqwv9rdwgYMbpRw
+.facebook.com	TRUE	/	FALSE	1753378562	fbl_st	100423359%3BT%3A29222975
+.facebook.com	TRUE	/	FALSE	1753378562	wl_cbv	v2%3Bclient_version%3A2879%3Btimestamp%3A1753378545%3BCRCM%3A-1170992512
